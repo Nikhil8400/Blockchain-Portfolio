@@ -1,4 +1,4 @@
-# 🚀 Nikhil Pandey — Smart Contract Researcher & Auditor
+# 🚀 Nikhil Pandey — Smart Contract Developer & Security Engineer
 
 Welcome to my GitHub portfolio! I am a dedicated **Smart Contract Researcher & Auditor**, passionate about **blockchain security** and **decentralized systems**. I specialize in auditing, vulnerability research, and building secure smart contracts with a focus on reliability and protocol correctness.
 
@@ -17,16 +17,16 @@ I’ve worked extensively with **EVM-compatible chains**, **OpenZeppelin librari
 
 ## 🚀 Projects
 
-### 🪙 STABLECOIN  [`View`](#https://github.com/Nikhil8400/Foundry-Stablecoin)
+### 🪙 STABLECOIN  [`View`](https://github.com/Nikhil8400/Foundry-Stablecoin)
 **Tech Stack**: Solidity, Foundry, Ethereum, DeFi  
-**Date**: 05/2024
+**Date**: 05/202
 
 - Engineered a **stablecoin pegged to USD** that allows users to mint/purchase using WETH and WBTC.
 - Implemented **fuzz testing** to simulate edge cases and ensure peg stability.
 
 ---
 
-### 🎰 SMART CONTRACT LOTTERY [`View`](#https://github.com/Nikhil8400/hardhat-smartcontract-lottery)
+### 🎰 SMART CONTRACT LOTTERY [`View`](https://github.com/Nikhil8400/hardhat-smartcontract-lottery)
 **Tech Stack**: Solidity, JavaScript, Hardhat  
 **Date**: 03/2024
 
@@ -35,7 +35,7 @@ I’ve worked extensively with **EVM-compatible chains**, **OpenZeppelin librari
 
 ---
 
-### 🎨 NFT MARKETPLACE [`View`](#https://github.com/Nikhil8400/hardhat-nft-marketplace)
+### 🎨 NFT MARKETPLACE [`View`](https://github.com/Nikhil8400/hardhat-nft-marketplace)
 **Tech Stack**: Solidity, JavaScript, Hardhat  
 **Date**: 11/2023
 
